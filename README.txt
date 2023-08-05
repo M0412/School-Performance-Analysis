@@ -1,5 +1,5 @@
-# pandas-challenge
-# PyCitySchools
+# School-Performance-Analysis
+## PyCitySchools
 
 Using Pandas and Jupyter Notebook to analyze the district-wide standardized test results and aggregate the data to showcase obvious trends in school performance. Data analysis was performed to retrieve the following:
 
